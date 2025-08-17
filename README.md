@@ -31,7 +31,6 @@ Currently part of **Digital Egypt Pioneers Initiative (DEPI)**, sharpening my sk
 
 ## 📈 GitHub Stats  
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudessamdev&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudessamdev&layout=compact&theme=radical)  
 
 ---
